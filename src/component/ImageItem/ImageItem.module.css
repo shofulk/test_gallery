@@ -1,0 +1,8 @@
+.ImageItem{
+    height: 200px;
+    margin: 5px 20px;
+}
+
+.ImageItem img{
+    height: 100%;
+}
